@@ -1,4 +1,4 @@
-package com.ubunto;
+package br.upe;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
